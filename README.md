@@ -1,22 +1,18 @@
-## Welcome to GitHub Pages
+## Привет.Меня зовут Дмитрий и я занимаюсь прокачкой аккаунтов в играх
 
-You can use the [editor on GitHub](https://github.com/deniskyrkin/Buster.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Я занимаюмь прокачкой таких игор как CS:GO,Dota2,Fortnite,GTA5. Если тебе нужно прокачать что-то из этого то ти по адресу.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Цена договорная. Время и передача аккаунта будет согласована обееми сторонами.
 
-### Markdown
+Все честно и без обмана. Проверено многими людьми
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Мои контакты:
+Мобильный телефон 0934324321
+Email-byster253dweas@gmail.com
 
-```markdown
-Syntax highlighted code block
+Instagram- @byster2465
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
